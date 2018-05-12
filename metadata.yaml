@@ -1,0 +1,35 @@
+_repo: Rambles-Beyond-Railways-or-Notes-in-Cornwall-taken-A-foot_28367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: William Wilkie Collins (1824-1889) was an English novelist, playwright,
+  and writer of short stories. He was hugely popular in his time, and wrote 27 novels,
+  more than 50 short stories, at least 15 plays, and over 100 pieces of non-fiction
+  work. His best-known works are The Woman in White (1860), The Moonstone (1868),
+  Armadale (1866) and No Name (1862). His works were classified at the time as 'sensation
+  novels', a genre seen nowadays as the precursor to detective fiction and suspense
+  fiction. He also wrote penetratingly on the plight of women and on the social and
+  domestic issues o.
+gutenberg_issued: '2009-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Cornwall (England : County) -- Description and travel'
+title: Rambles Beyond Railways; or, Notes in Cornwall taken A-foot
+url: http://www.gutenberg.org/ebooks/28367
